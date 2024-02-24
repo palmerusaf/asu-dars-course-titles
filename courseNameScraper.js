@@ -60,15 +60,10 @@ async function getSubjectTitle(subject, number) {
 
 
 const courses = require('./courseCodes.json');
-console.log(courses.length)
-// ; (async function() {
-//   for (const item of courses) {
-//     const [subject, number] = item.course.split(" ");
-//     const title = await getSubjectTitle(subject, parseInt(number));
-//     console.log({ course: item.course, title })
-//     // await sleep(3000);
-//   }
-//   function sleep(delay) {
-//     return new Promise((resolve) => setTimeout(resolve, delay))
-//   }
-// })()
+; (async function() {
+  for (const item of courses) {
+    const [subject, number] = item.course.split(" ");
+    const title = await getSubjectTitle(subject, parseInt(number));
+    console.log({ course: item.course, title })
+  }
+})()
