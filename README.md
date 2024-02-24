@@ -1,5 +1,5 @@
 # Directions
-Nav to DARS screen hit f12 then copy paste the following line in the dev console
+Nav to DARS screen hit f12 then copy paste the following in the dev console
 ```javascript
 
 function getData() {
