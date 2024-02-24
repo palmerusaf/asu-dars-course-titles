@@ -1,0 +1,947 @@
+[
+  {
+    "course": "ABS 130"
+  },
+  {
+    "course": "ABS 225"
+  },
+  {
+    "course": "ABS 266"
+  },
+  {
+    "course": "AST 111"
+  },
+  {
+    "course": "AST 113"
+  },
+  {
+    "course": "AST 112"
+  },
+  {
+    "course": "AST 114"
+  },
+  {
+    "course": "BIO 100"
+  },
+  {
+    "course": "BIO 108"
+  },
+  {
+    "course": "BIO 130"
+  },
+  {
+    "course": "BIO 160"
+  },
+  {
+    "course": "BIO 151"
+  },
+  {
+    "course": "BIO 181"
+  },
+  {
+    "course": "BIO 182"
+  },
+  {
+    "course": "BIO 281"
+  },
+  {
+    "course": "CHM 107"
+  },
+  {
+    "course": "CHM 108"
+  },
+  {
+    "course": "CHM 113"
+  },
+  {
+    "course": "CHM 114"
+  },
+  {
+    "course": "CHM 116"
+  },
+  {
+    "course": "CHM 111"
+  },
+  {
+    "course": "CHM 117"
+  },
+  {
+    "course": "CHM 112"
+  },
+  {
+    "course": "CHM 118"
+  },
+  {
+    "course": "CHM 231"
+  },
+  {
+    "course": "CHM 235"
+  },
+  {
+    "course": "CON 106"
+  },
+  {
+    "course": "ENV 130"
+  },
+  {
+    "course": "FOR 105"
+  },
+  {
+    "course": "FOR 106"
+  },
+  {
+    "course": "GLG 108"
+  },
+  {
+    "course": "GLG 101"
+  },
+  {
+    "course": "GLG 103"
+  },
+  {
+    "course": "GLG 102"
+  },
+  {
+    "course": "GLG 104"
+  },
+  {
+    "course": "GLG 110"
+  },
+  {
+    "course": "GLG 111"
+  },
+  {
+    "course": "GPH 211"
+  },
+  {
+    "course": "GPH 111"
+  },
+  {
+    "course": "GPH 112"
+  },
+  {
+    "course": "GPH 212"
+  },
+  {
+    "course": "GPH 214"
+  },
+  {
+    "course": "MSE 208"
+  },
+  {
+    "course": "MSE 308"
+  },
+  {
+    "course": "PHS 110"
+  },
+  {
+    "course": "PHS 115"
+  },
+  {
+    "course": "PHS 208"
+  },
+  {
+    "course": "PHY 101"
+  },
+  {
+    "course": "PHY 111"
+  },
+  {
+    "course": "PHY 113"
+  },
+  {
+    "course": "PHY 112"
+  },
+  {
+    "course": "PHY 114"
+  },
+  {
+    "course": "PHY 121"
+  },
+  {
+    "course": "PHY 122"
+  },
+  {
+    "course": "PHY 131"
+  },
+  {
+    "course": "PHY 132"
+  },
+  {
+    "course": "PHY 150"
+  },
+  {
+    "course": "PHY 151"
+  },
+  {
+    "course": "PHY 252"
+  },
+  {
+    "course": "SCN 250"
+  },
+  {
+    "course": "SES 106"
+  },
+  {
+    "course": "SES 121"
+  },
+  {
+    "course": "SES 123"
+  },
+  {
+    "course": "SES 141"
+  },
+  {
+    "course": "SOS 182"
+  },
+  {
+    "course": "CSE 301"
+  },
+  {
+    "course": "CSE 330"
+  },
+  {
+    "course": "CSE 340"
+  },
+  {
+    "course": "CSE 355"
+  },
+  {
+    "course": "CSE 365"
+  },
+  {
+    "course": "CSE 485"
+  },
+  {
+    "course": "CSE 486"
+  },
+  {
+    "course": "IEE 380"
+  },
+  {
+    "course": "CSE 412"
+  },
+  {
+    "course": "CSE 434"
+  },
+  {
+    "course": "CSE 445"
+  },
+  {
+    "course": "AEE 415"
+  },
+  {
+    "course": "AEE 426"
+  },
+  {
+    "course": "AEE 462"
+  },
+  {
+    "course": "AEE 463"
+  },
+  {
+    "course": "AEE 465"
+  },
+  {
+    "course": "AEE 468"
+  },
+  {
+    "course": "AEE 471"
+  },
+  {
+    "course": "AME 430"
+  },
+  {
+    "course": "AME 435"
+  },
+  {
+    "course": "AME 494"
+  },
+  {
+    "course": "BCH 361"
+  },
+  {
+    "course": "BCH 461"
+  },
+  {
+    "course": "BCH 462"
+  },
+  {
+    "course": "BME 350"
+  },
+  {
+    "course": "BME 413"
+  },
+  {
+    "course": "BME 416"
+  },
+  {
+    "course": "BME 494"
+  },
+  {
+    "course": "BIO 340"
+  },
+  {
+    "course": "BIO 343"
+  },
+  {
+    "course": "BIO 345"
+  },
+  {
+    "course": "CHE 342"
+  },
+  {
+    "course": "CHE 432"
+  },
+  {
+    "course": "CHE 442"
+  },
+  {
+    "course": "CHE 461"
+  },
+  {
+    "course": "CHE 462"
+  },
+  {
+    "course": "CHE 469"
+  },
+  {
+    "course": "CHE 475"
+  },
+  {
+    "course": "CEE 412"
+  },
+  {
+    "course": "CEE 432"
+  },
+  {
+    "course": "CEE 440"
+  },
+  {
+    "course": "CEE 441"
+  },
+  {
+    "course": "CEE 452"
+  },
+  {
+    "course": "CEE 462"
+  },
+  {
+    "course": "CEE 466"
+  },
+  {
+    "course": "CEE 467"
+  },
+  {
+    "course": "CEE 474"
+  },
+  {
+    "course": "CEE 475"
+  },
+  {
+    "course": "CEE 481"
+  },
+  {
+    "course": "CEE 483"
+  },
+  {
+    "course": "CEE 486"
+  },
+  {
+    "course": "CIS 415"
+  },
+  {
+    "course": "CSE 320"
+  },
+  {
+    "course": "CSE 325"
+  },
+  {
+    "course": "CSE 335"
+  },
+  {
+    "course": "DAT 300"
+  },
+  {
+    "course": "DAT 301"
+  },
+  {
+    "course": "DAT 401"
+  },
+  {
+    "course": "DAT 402"
+  },
+  {
+    "course": "EEE 304"
+  },
+  {
+    "course": "EEE 333"
+  },
+  {
+    "course": "EEE 334"
+  },
+  {
+    "course": "EEE 335"
+  },
+  {
+    "course": "EEE 350"
+  },
+  {
+    "course": "EEE 360"
+  },
+  {
+    "course": "EEE 404"
+  },
+  {
+    "course": "EEE 407"
+  },
+  {
+    "course": "EEE 425"
+  },
+  {
+    "course": "EEE 433"
+  },
+  {
+    "course": "EEE 434"
+  },
+  {
+    "course": "EEE 435"
+  },
+  {
+    "course": "EEE 436"
+  },
+  {
+    "course": "EEE 437"
+  },
+  {
+    "course": "EEE 439"
+  },
+  {
+    "course": "EEE 443"
+  },
+  {
+    "course": "EEE 445"
+  },
+  {
+    "course": "EEE 448"
+  },
+  {
+    "course": "EEE 455"
+  },
+  {
+    "course": "EEE 459"
+  },
+  {
+    "course": "EEE 460"
+  },
+  {
+    "course": "EEE 463"
+  },
+  {
+    "course": "EEE 470"
+  },
+  {
+    "course": "EEE 471"
+  },
+  {
+    "course": "EEE 473"
+  },
+  {
+    "course": "EEE 480"
+  },
+  {
+    "course": "EEE 481"
+  },
+  {
+    "course": "FSE 301"
+  },
+  {
+    "course": "FSE 404"
+  },
+  {
+    "course": "FSE 394"
+  },
+  {
+    "course": "IEE 376"
+  },
+  {
+    "course": "IEE 381"
+  },
+  {
+    "course": "IEE 385"
+  },
+  {
+    "course": "IEE 412"
+  },
+  {
+    "course": "IEE 426"
+  },
+  {
+    "course": "IEE 431"
+  },
+  {
+    "course": "IEE 456"
+  },
+  {
+    "course": "IEE 458"
+  },
+  {
+    "course": "IEE 461"
+  },
+  {
+    "course": "IEE 470"
+  },
+  {
+    "course": "IEE 474"
+  },
+  {
+    "course": "IEE 475"
+  },
+  {
+    "course": "CPI 311"
+  },
+  {
+    "course": "CPI 350"
+  },
+  {
+    "course": "CPI 360"
+  },
+  {
+    "course": "CPI 411"
+  },
+  {
+    "course": "CPI 460"
+  },
+  {
+    "course": "CPI 462"
+  },
+  {
+    "course": "MAE 341"
+  },
+  {
+    "course": "MAE 404"
+  },
+  {
+    "course": "MAE 417"
+  },
+  {
+    "course": "MAE 436"
+  },
+  {
+    "course": "MAE 455"
+  },
+  {
+    "course": "MEE 351"
+  },
+  {
+    "course": "MEE 434"
+  },
+  {
+    "course": "MEE 446"
+  },
+  {
+    "course": "MSE 335"
+  },
+  {
+    "course": "MSE 415"
+  },
+  {
+    "course": "PHY 302"
+  },
+  {
+    "course": "PHY 361"
+  },
+  {
+    "course": "PHY 462"
+  },
+  {
+    "course": "STP 421"
+  },
+  {
+    "course": "STP 425"
+  },
+  {
+    "course": "STP 427"
+  },
+  {
+    "course": "STP 429"
+  },
+  {
+    "course": "SER 421"
+  },
+  {
+    "course": "SER 422"
+  },
+  {
+    "course": "SER 423"
+  },
+  {
+    "course": "CSE 301"
+  },
+  {
+    "course": "CSE 340"
+  },
+  {
+    "course": "CSE 355"
+  },
+  {
+    "course": "CSE 365"
+  },
+  {
+    "course": "CSE 330"
+  },
+  {
+    "course": "CSE 485"
+  },
+  {
+    "course": "CSE 486"
+  },
+  {
+    "course": "AEE 415"
+  },
+  {
+    "course": "AEE 426"
+  },
+  {
+    "course": "AEE 462"
+  },
+  {
+    "course": "AEE 463"
+  },
+  {
+    "course": "AEE 465"
+  },
+  {
+    "course": "AEE 468"
+  },
+  {
+    "course": "AEE 471"
+  },
+  {
+    "course": "AME 430"
+  },
+  {
+    "course": "AME 435"
+  },
+  {
+    "course": "AME 494"
+  },
+  {
+    "course": "BCH 361"
+  },
+  {
+    "course": "BCH 461"
+  },
+  {
+    "course": "BCH 462"
+  },
+  {
+    "course": "BME 350"
+  },
+  {
+    "course": "BME 413"
+  },
+  {
+    "course": "BME 416"
+  },
+  {
+    "course": "BME 494"
+  },
+  {
+    "course": "BIO 340"
+  },
+  {
+    "course": "BIO 343"
+  },
+  {
+    "course": "BIO 345"
+  },
+  {
+    "course": "CHE 342"
+  },
+  {
+    "course": "CHE 432"
+  },
+  {
+    "course": "CHE 442"
+  },
+  {
+    "course": "CHE 461"
+  },
+  {
+    "course": "CHE 462"
+  },
+  {
+    "course": "CHE 469"
+  },
+  {
+    "course": "CHE 475"
+  },
+  {
+    "course": "CEE 412"
+  },
+  {
+    "course": "CEE 432"
+  },
+  {
+    "course": "CEE 440"
+  },
+  {
+    "course": "CEE 441"
+  },
+  {
+    "course": "CEE 452"
+  },
+  {
+    "course": "CEE 462"
+  },
+  {
+    "course": "CEE 466"
+  },
+  {
+    "course": "CEE 467"
+  },
+  {
+    "course": "CEE 474"
+  },
+  {
+    "course": "CEE 475"
+  },
+  {
+    "course": "CEE 481"
+  },
+  {
+    "course": "CEE 483"
+  },
+  {
+    "course": "CEE 486"
+  },
+  {
+    "course": "CIS 415"
+  },
+  {
+    "course": "CSE 320"
+  },
+  {
+    "course": "CSE 325"
+  },
+  {
+    "course": "CSE 335"
+  },
+  {
+    "course": "DAT 300"
+  },
+  {
+    "course": "DAT 301"
+  },
+  {
+    "course": "DAT 401"
+  },
+  {
+    "course": "DAT 402"
+  },
+  {
+    "course": "EEE 304"
+  },
+  {
+    "course": "EEE 333"
+  },
+  {
+    "course": "EEE 334"
+  },
+  {
+    "course": "EEE 335"
+  },
+  {
+    "course": "EEE 350"
+  },
+  {
+    "course": "EEE 360"
+  },
+  {
+    "course": "EEE 404"
+  },
+  {
+    "course": "EEE 407"
+  },
+  {
+    "course": "EEE 425"
+  },
+  {
+    "course": "EEE 433"
+  },
+  {
+    "course": "EEE 434"
+  },
+  {
+    "course": "EEE 435"
+  },
+  {
+    "course": "EEE 436"
+  },
+  {
+    "course": "EEE 437"
+  },
+  {
+    "course": "EEE 439"
+  },
+  {
+    "course": "EEE 443"
+  },
+  {
+    "course": "EEE 445"
+  },
+  {
+    "course": "EEE 448"
+  },
+  {
+    "course": "EEE 455"
+  },
+  {
+    "course": "EEE 459"
+  },
+  {
+    "course": "EEE 460"
+  },
+  {
+    "course": "EEE 463"
+  },
+  {
+    "course": "EEE 470"
+  },
+  {
+    "course": "EEE 471"
+  },
+  {
+    "course": "EEE 473"
+  },
+  {
+    "course": "EEE 480"
+  },
+  {
+    "course": "EEE 481"
+  },
+  {
+    "course": "FSE 301"
+  },
+  {
+    "course": "FSE 404"
+  },
+  {
+    "course": "FSE 394"
+  },
+  {
+    "course": "IEE 376"
+  },
+  {
+    "course": "IEE 381"
+  },
+  {
+    "course": "IEE 385"
+  },
+  {
+    "course": "IEE 412"
+  },
+  {
+    "course": "IEE 426"
+  },
+  {
+    "course": "IEE 431"
+  },
+  {
+    "course": "IEE 456"
+  },
+  {
+    "course": "IEE 458"
+  },
+  {
+    "course": "IEE 461"
+  },
+  {
+    "course": "IEE 470"
+  },
+  {
+    "course": "IEE 474"
+  },
+  {
+    "course": "IEE 475"
+  },
+  {
+    "course": "CPI 311"
+  },
+  {
+    "course": "CPI 350"
+  },
+  {
+    "course": "CPI 360"
+  },
+  {
+    "course": "CPI 411"
+  },
+  {
+    "course": "CPI 460"
+  },
+  {
+    "course": "CPI 462"
+  },
+  {
+    "course": "MAE 341"
+  },
+  {
+    "course": "MAE 404"
+  },
+  {
+    "course": "MAE 417"
+  },
+  {
+    "course": "MAE 436"
+  },
+  {
+    "course": "MAE 455"
+  },
+  {
+    "course": "MEE 351"
+  },
+  {
+    "course": "MEE 434"
+  },
+  {
+    "course": "MEE 446"
+  },
+  {
+    "course": "MSE 335"
+  },
+  {
+    "course": "MSE 415"
+  },
+  {
+    "course": "PHY 302"
+  },
+  {
+    "course": "PHY 361"
+  },
+  {
+    "course": "PHY 462"
+  },
+  {
+    "course": "STP 421"
+  },
+  {
+    "course": "STP 425"
+  },
+  {
+    "course": "STP 427"
+  },
+  {
+    "course": "STP 429"
+  },
+  {
+    "course": "SER 421"
+  },
+  {
+    "course": "SER 422"
+  },
+  {
+    "course": "SER 423"
+  }
+]
