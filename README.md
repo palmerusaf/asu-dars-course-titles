@@ -1283,7 +1283,7 @@ function addTitlesToNodes() {
   const nodes = getNodes()
   const codes = getCourseCodes();
   nodes.forEach((el, index) => {
-    el.textContent = `${codes[index]} ${getTitle(codes[index].toString())}`
+    el.title = `${getTitle(codes[index].toString())}`
   })
 }
 addTitlesToNodes()
