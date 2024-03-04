@@ -5,7 +5,7 @@ Scrape as many course names as possible then write a script to add titles to cou
 # Directions
 Nav to DARS screen hit f12 then copy paste the following in the dev console
 
-```javascript:./coursesWithTitles.json
+```javascript:./main.js
 [
   {
     "course": "ABS 130",
